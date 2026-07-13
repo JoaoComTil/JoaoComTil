@@ -5,10 +5,10 @@ Studying software enginnering in UnB (Universidade de Brasília).
 Working to become a back-end software developer.  
 
 - ✉️ Email: jgabrieldbrito@gmail.com
-
+<!--
 ## LeetCode
 ![LeetCode](https://leetcard.jacoblin.cool/Joao_G)
-<!--
+
 **JoaoComTil/JoaoComTil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
